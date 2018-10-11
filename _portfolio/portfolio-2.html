@@ -1,5 +1,5 @@
 ---
-title: "OpenGL: Rendering Moving Vehicle"
+title: "OpenGL: Rendering a Moving Vehicle"
 excerpt: "<br/><img src='/files/portfolio3.png'>"
 collection: portfolio
 ---
@@ -7,4 +7,45 @@ collection: portfolio
 <script src="https://api.html5media.info/1.1.8/html5media.min.js"></script>
 <video src="https://yunwontae.github.io/files/example1.mp4" width="520" height="400" controls preload></video>
 
- 
+<p>
+This animation will show a car that is moving forward with proper tire rotation. Also, it will show some background skyboxes with some tree objects.
+To start the program, user must be download Xcode and includes OpenGL library with SOIL.
+I used SOIL (Simple OpenGL Image Loader) to load texture. After running program, user can start the program by clicking 'q' keyboard.
+
+#Car Model
+I downloaded the model from this website: http://animium.com/2011/10/ferrari-california-3d-model.
+
+	Original author : 
+	Turn 10 Studios (Forza Motorsport 3, X360)
+	Conversion : 
+	http://gfx-3d-model.com
+
+#Tree Model
+I downloaded the model from this website: https://free3d.com/3d-model/tree-74556.html
+	author: rezashams313
+	Date added: Mar27, 2016
+	Last update: Jun 06, 2018
+
+#Dirt Texture
+I downloaded dirt texture from this website: https://graphicriver.net/item/6-hd-seamless-dirt-textures/11459376
+	author: peki1990
+	Date added: 20 May 15
+	Last Update: 30 October 15
+
+#Background Texture
+I downloaded background textures from this website: https://93i.de/p/free-skybox-texture-set/
+	SkyboxSet by Heiko Irrgang is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Based on a work at 93i.de.
+
+#Referece codes
+
+	1. https://www.opengl.org/discussion_boards/showthread.php/176158-Texture-Mapping-Loading-an-image-using-SOIL
+	Used this OpenGL forum to learn and know how to use SOIL library.
+
+	2. http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading/
+	Used this OpenGL tutorial to learn about model loading.
+
+	3. https://www.opengl.org/discussion_boards/showthread.php/127317-Rotating-Camera-in-GLUT 
+	http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions/
+	Used this two sources to understand glLookAt function and learn how to rotate the view.
+
+</p>
