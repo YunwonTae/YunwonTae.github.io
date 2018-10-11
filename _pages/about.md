@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a BS student in the [Computer Science Department](http://www.cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/) [[CV]](http://yunwontae.github.io/files/YunwonTae_CV.pdf).
+* I am a BS student in the [Computer Science Department](http://www.cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). [[CV]](http://yunwontae.github.io/files/YunwonTae_CV.pdf)
 
 A data-driven personal website
 ======
