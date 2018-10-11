@@ -5,7 +5,7 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-- [About Me](https://yunwontae.github.io/)
+- [About me](https://yunwontae.github.io/)
 - [Resume](https://yunwontae.github.io/resume/)
 - [Portfolio](https://yunwontae.github.io/portfolio/)
 - [Blog Posts](https://yunwontae.github.io/year-archive/)
