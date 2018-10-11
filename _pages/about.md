@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 <p align="center">
+  <img src="https://yunwontae.github.io/images/yunwon.png?raw=true" alt="Photo" style="height: 250; width: 150px;"/> 
+</p>
+
+<p align="center">
   <img src="https://yunwontae.github.io/files/1.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
