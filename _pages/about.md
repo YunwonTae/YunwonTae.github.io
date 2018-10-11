@@ -14,3 +14,7 @@ redirect_from:
 
 * I am a BS student in the [Computer Science Department](http://www.cs.ucdavis.edu/) at [University of California, Davis](https://www.ucdavis.edu/). [[CV]](http://yunwontae.github.io/files/Yunwon_Tae.pdf)
 * My research interest is machine learning, specifically natural language processing with deep representation learning.
+
+Experience
+======
+* Naver Clova AI Summer Internship (Jun 2018 - Sep 2018)
