@@ -16,11 +16,23 @@ collection: portfolio
       </ul>
     </li>
     <li><b>Approaches: </b>
-      <ul>
-        <li>Baseline: Dialog WAE: Gaussian Mixture vs. Gaussian Additive</li>
-        <li>Hybrid CNN-RNN</li>
+      <ol>
+        <li>Baseline: Dialog WAE: Gaussian Mixture vs. Gaussian Additive
+          <ul>
+            <li>Dialog WAE is a model that generates diverse responses for conversation. And I thought this model could do similar things for generating comments such as conditioning titles on comments. </li>
+            <li>Moreover, baseline model had a threshold problem for Gaussian Mixture. And I assumed that it might be the problem of baseline model which becomes biased and picks one particular latent representation. Therefore, I tried Gaussian Additive which encourages z to reflect each k-cluster rather than switching one cluster center to another.</li>
+          </ul>
+        </li>
+        <li>Hybrid CNN-RNN
+          <ul>
+            <li>I changed encoder and decoder to "Hybrid CNN-RNN model" because bsseline model tends to ignore latent representations.</li>
+          </ul>
+        </li>
         <li>Variational Attention</li>
-      </ul>
+          <ul>
+            <li>Since attention improves deterministic seq2seq model especially for in neural machine translation area, it was tempting to apply attention mechanism onto baseline model.</li>
+          </ul>
+      </ol>
     </li>
   </ol>
   
