@@ -8,10 +8,12 @@ collection: portfolio
   <b> Sampling Results</b>
   <img src='/files/comment3.png'>
   <img src='/files/comment4.png'>
-  <p align="center">
-    <img src='/files/object1.png'>
-    Xiaodong Gu, <i>DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder</i>
-  </p>
+  <br>
+    <p align="center">
+      <img src='/files/object1.png'>
+      <font size="1">Xiaodong Gu, <i>DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder</i></font>
+    </p>
+  </br>
   <ol>
     <li><b>Objective: </b>
       <ul> 
@@ -23,8 +25,8 @@ collection: portfolio
       <ol>
         <li>Baseline: Dialog WAE: Gaussian Mixture vs. Gaussian Additive
           <ul>
-            <li>Dialog WAE is a model that generates diverse responses for conversation. And I thought this model could do similar things for generating comments such as conditioning titles on comments. </li>
-            <li>Moreover, baseline model had a threshold problem for Gaussian Mixture. And I assumed that it might be the problem of baseline model which becomes biased and picks one particular latent representation. Therefore, I tried Gaussian Additive which encourages z to reflect each k-cluster rather than switching one cluster center to another.</li>
+            <li>Dialog WAE is a model that generates diverse responses for conversation. And I thought this model could do similar things for generating comments such as conditioning comments on article titles. </li>
+            <li>Moreover, baseline model had a threshold problem for Gaussian Mixture. And I assumed that it might be the problem of baseline model that becomes biased and picks one particular latent representation. Therefore, I tried Gaussian Additive which encourages z to reflect each k-cluster rather than switching one cluster center to another.</li>
           </ul>
         </li>
         <li>Hybrid CNN-RNN
