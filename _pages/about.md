@@ -22,3 +22,7 @@ redirect_from:
 Experience
 ======
 * Naver Clova AI Summer Internship (Jun 2018 - Sep 2018)
+
+Recent News
+======
+* Our project "Drawback:Designing a collaborative whiteboard" has been published on Google Education Stories. [https://edu.google.com/latest-news/stories/uc-davis-capstone/?modal_active=none](https://edu.google.com/latest-news/stories/uc-davis-capstone/?modal_active=none)
