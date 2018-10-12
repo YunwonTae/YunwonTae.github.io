@@ -8,19 +8,22 @@ collection: portfolio
   <b> Sampling Results</b>
   <img src='/files/comment3.png'>
   <img src='/files/comment4.png'>
-  <br>
-    <p align="center">
-      <img src='/files/object1.png'>
-      <font size="1">Xiaodong Gu, <i>DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder</i></font>
-    </p>
-  </br>
+
   <ol>
+    <li><b> Baseline Model Architecture: </b>
+      <div align="center">
+        <img src='/files/object1.png'>
+        <font size="1">Xiaodong Gu, <i>DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder</i></font>
+      </div>
+    </li>
+    
     <li><b>Objective: </b>
       <ul> 
         <li> Generating comments based on article titles </li>
         <li><b>Why? </b>Data Augmentation: Originally, I wanted to create a model that classify toxic comments; however, I could not find labeled datasets, toxic/nontoxic korean comments. And Web Crawling also will take time because I only had 3 months to finish my research. Therefore, I decided to create a model that generate comments, and this model will be used in the future for my classification model. </li>
       </ul>
     </li>
+    
     <li><b>Approaches: </b>
       <ol>
         <li>Baseline: Dialog WAE: Gaussian Mixture vs. Gaussian Additive
