@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, University of California, Davis<br>
+Computer Science Department, Korea University<br>
 Email: ytae [at] ucdavis.edu
