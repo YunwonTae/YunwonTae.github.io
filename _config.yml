@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YunwonTae"
 title_separator          : "-"
 name                     : &name "Yunwon Tae"
-description              : &description "BS student, Computer Science Department, UC Davis"
+description              : &description "MS student, Computer Science Department, Korea University"
 url                      : https://YunwonTae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YunwonTae/YunwonTae.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Yunwon Tae"
   avatar           : "yunwon.png"
-  bio              : "BS student, Computer Science Department, UC Davis"
+  bio              : "MS student, Computer Science Department, Korea University"
   location         : "UC Davis, California"
   employer         :
   googlescholar    : 
