@@ -16,7 +16,7 @@ redirect_from:
   <img src="https://yunwontae.github.io/files/1.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I received bachelor's degree at [University of California, Davis]
+* I received bachelor's degree at [University of California, Davis].
 * I am a MS student in the [Computer Science Department](https://cs.korea.edu/cs_en/index.do) at [Korea University](http://www.korea.ac.kr/mbshome/mbs/en/index.do).
 * My research interest is machine learning, specifically natural language processing with deep representation learning.
 
